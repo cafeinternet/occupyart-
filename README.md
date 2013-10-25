@@ -1,0 +1,1 @@
+// este extencion inserta en las pagina de de inicio de  la tadeo de las salas de computo  una muestra de trabajos de estudiantes de artes
